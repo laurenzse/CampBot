@@ -1,0 +1,2532 @@
+#DIV_1, #ARTICLE_2 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 422.5px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 354px;
+    align-items: stretch;
+    perspective-origin: 177px 211.25px;
+    transform-origin: 177px 211.25px;
+    border: 0px solid rgb(0, 0, 0);
+    background: rgb(249, 249, 249);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_1, #ARTICLE_2*/
+
+#DIV_1:after, #ARTICLE_2:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_1:after, #ARTICLE_2:after*/
+
+#DIV_1:before, #ARTICLE_2:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_1:before, #ARTICLE_2:before*/
+
+#HEADER_3 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: -webkit-box;
+    height: 60px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 354px;
+    align-items: center;
+    perspective-origin: 177px 30px;
+    transform-origin: 177px 30px;
+    border-top: 0px solid rgb(0, 0, 0);
+    border-right: 0px solid rgb(0, 0, 0);
+    border-bottom: 0.5px solid rgb(239, 239, 239);
+    border-left: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 16px 40px 16px 16px;
+}/*#HEADER_3*/
+
+#HEADER_3:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#HEADER_3:after*/
+
+#HEADER_3:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#HEADER_3:before*/
+
+#DIV_4 {
+    bottom: 0px;
+    box-sizing: border-box;
+    cursor: pointer;
+    height: 32px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 32px;
+    align-items: stretch;
+    align-self: center;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_4*/
+
+#DIV_4:after {
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_4:after*/
+
+#DIV_4:before {
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_4:before*/
+
+#CANVAS_5 {
+    bottom: -5px;
+    cursor: pointer;
+    display: block;
+    height: 42px;
+    left: -5px;
+    position: absolute;
+    right: -5px;
+    text-size-adjust: 100%;
+    top: -5px;
+    width: 42px;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#CANVAS_5*/
+
+#CANVAS_5:after {
+    cursor: pointer;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#CANVAS_5:after*/
+
+#CANVAS_5:before {
+    cursor: pointer;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#CANVAS_5:before*/
+
+#SPAN_6 {
+    bottom: 0px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: 32px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 32px;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    background: rgb(250, 250, 250) none repeat scroll 0% 0% padding-box border-box;
+    background-size: auto;
+    border-radius: 50% 50% 50% 50%;
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    overflow: hidden;
+}/*#SPAN_6*/
+
+#SPAN_6:after {
+    bottom: 0px;
+    cursor: pointer;
+    display: block;
+    height: 30px;
+    left: 0px;
+    pointer-events: none;
+    position: absolute;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 30px;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    border: 1px solid rgba(0, 0, 0, 0.098);
+    border-radius: 50% 50% 50% 50%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_6:after*/
+
+#SPAN_6:before {
+    cursor: pointer;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_6:before*/
+
+#IMG_7 {
+    cursor: pointer;
+    height: 32px;
+    text-size-adjust: 100%;
+    width: 32px;
+    border-radius: 50% 50% 50% 50%;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#IMG_7*/
+
+#IMG_7:after {
+    cursor: pointer;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#IMG_7:after*/
+
+#IMG_7:before {
+    cursor: pointer;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#IMG_7:before*/
+
+#DIV_8 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    /*display: -webkit-box;*/
+    height: 33px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    /*width: 254px;*/
+    align-items: flex-start;
+    perspective-origin: 127px 16.5px;
+    transform-origin: 127px 16.5px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 1 1 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 12px;
+    overflow: hidden;
+}/*#DIV_8*/
+
+#DIV_8:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_8:after*/
+
+#DIV_8:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_8:before*/
+
+#DIV_9 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: -webkit-box;
+    height: 18px;
+    left: 0px;
+    max-width: 250px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    align-items: baseline;
+    perspective-origin: 53.7969px 9px;
+    transform-origin: 53.7969px 9px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_9*/
+
+#DIV_9:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_9:after*/
+
+#DIV_9:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_9:before*/
+
+#DIV_10 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 18px;
+    left: 0px;
+    max-width: 100%;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    align-items: center;
+    perspective-origin: 21.9219px 9px;
+    transform-origin: 21.9297px 9px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 1 1 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    overflow: hidden;
+}/*#DIV_10*/
+
+#DIV_10:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_10:after*/
+
+#DIV_10:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_10:before*/
+
+#H2_11 {
+    height: 18px;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    perspective-origin: 21.9219px 9px;
+    transform-origin: 21.9297px 9px;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px;
+}/*#H2_11*/
+
+#H2_11:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#H2_11:after*/
+
+#H2_11:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#H2_11:before*/
+
+#A_12 {
+    color: rgb(38, 38, 38);
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    column-rule-color: rgb(38, 38, 38);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 600 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px -5px;
+    outline: rgb(38, 38, 38) none 0px;
+    overflow: hidden;
+    padding: 0px 0px 0px 5px;
+}/*#A_12*/
+
+#A_12:after {
+    color: rgb(38, 38, 38);
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    column-rule-color: rgb(38, 38, 38);
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 600 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#A_12:after*/
+
+#A_12:before {
+    color: rgb(38, 38, 38);
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    column-rule-color: rgb(38, 38, 38);
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 600 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#A_12:before*/
+
+#DIV_13 {
+    bottom: 0px;
+    box-sizing: border-box;
+    /*display: flex;*/
+    display: -webkit-box;
+    height: 18px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    /*width: 63.7344px;*/
+    align-items: baseline;
+    perspective-origin: 31.8594px 9px;
+    transform-origin: 31.8672px 9px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_13*/
+
+#DIV_13:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_13:after*/
+
+#DIV_13:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_13:before*/
+
+#SPAN_14 {
+    color: rgb(38, 38, 38);
+    display: block;
+    height: 18px;
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    width: 6.28125px;
+    column-rule-color: rgb(38, 38, 38);
+    perspective-origin: 3.14062px 9px;
+    transform-origin: 3.14062px 9px;
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 4px;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#SPAN_14*/
+
+#SPAN_14:after {
+    color: rgb(38, 38, 38);
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(38, 38, 38);
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#SPAN_14:after*/
+
+#SPAN_14:before {
+    color: rgb(38, 38, 38);
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(38, 38, 38);
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#SPAN_14:before*/
+
+#A_15 {
+    color: rgb(0, 53, 105);
+    display: block;
+    height: 18px;
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    width: 49.4531px;
+    column-rule-color: rgb(0, 53, 105);
+    perspective-origin: 24.7188px 9px;
+    transform-origin: 24.7266px 9px;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_15*/
+
+#A_15:after {
+    color: rgb(0, 53, 105);
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_15:after*/
+
+#A_15:before {
+    color: rgb(0, 53, 105);
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_15:before*/
+
+#BUTTON_16 {
+    background-position: 0px 0px;
+    color: rgb(56, 151, 240);
+    cursor: pointer;
+    display: inline;
+    height: 16px;
+    min-height: 0px;
+    text-decoration: none solid rgb(56, 151, 240);
+    text-size-adjust: 100%;
+    text-overflow: ellipsis;
+    column-rule-color: rgb(56, 151, 240);
+    perspective-origin: 24.7188px 8px;
+    transform-origin: 24.7266px 8px;
+    user-select: none;
+    caret-color: rgb(56, 151, 240);
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px padding-box border-box;
+    background-size: auto;
+    border: 0px none rgb(56, 151, 240);
+    font: normal normal 600 normal 14px / 16px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(56, 151, 240) none 0px;
+    /*padding: 0px 4px 0px 0px;*/
+    padding: 0px 1px 0px 0px;
+}/*#BUTTON_16*/
+
+#BUTTON_16:after {
+    color: rgb(56, 151, 240);
+    cursor: pointer;
+    text-decoration: none solid rgb(56, 151, 240);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(56, 151, 240);
+    user-select: none;
+    caret-color: rgb(56, 151, 240);
+    border: 0px none rgb(56, 151, 240);
+    font: normal normal 600 normal 14px / 16px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(56, 151, 240) none 0px;
+}/*#BUTTON_16:after*/
+
+#BUTTON_16:before {
+    color: rgb(56, 151, 240);
+    cursor: pointer;
+    text-decoration: none solid rgb(56, 151, 240);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(56, 151, 240);
+    user-select: none;
+    caret-color: rgb(56, 151, 240);
+    border: 0px none rgb(56, 151, 240);
+    font: normal normal 600 normal 14px / 16px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(56, 151, 240) none 0px;
+}/*#BUTTON_16:before*/
+
+#DIV_17 {
+    bottom: 0px;
+    box-sizing: border-box;
+    height: 15px;
+    left: 0px;
+    max-width: 100%;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    text-overflow: ellipsis;
+    top: 0px;
+    white-space: nowrap;
+    width: 129.812px;
+    align-items: stretch;
+    perspective-origin: 64.9062px 7.5px;
+    transform-origin: 64.9062px 7.5px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    overflow: hidden;
+}/*#DIV_17*/
+
+#DIV_17:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_17:after*/
+
+#DIV_17:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_17:before*/
+
+#DIV_18 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 0px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    white-space: nowrap;
+    width: 129.812px;
+    align-items: stretch;
+    perspective-origin: 64.9062px 0px;
+    transform-origin: 64.9062px 0px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_18*/
+
+#DIV_18:after {
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_18:after*/
+
+#DIV_18:before {
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_18:before*/
+
+#DIV_19 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 15px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    white-space: nowrap;
+    width: 129.812px;
+    align-items: stretch;
+    perspective-origin: 64.9062px 7.5px;
+    transform-origin: 64.9062px 7.5px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_19*/
+
+#DIV_19:after {
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_19:after*/
+
+#DIV_19:before {
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_19:before*/
+
+#A_20 {
+    color: rgb(38, 38, 38);
+    display: block;
+    height: 15px;
+    max-width: 100%;
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 129.812px;
+    column-rule-color: rgb(38, 38, 38);
+    perspective-origin: 64.9062px 7.5px;
+    transform-origin: 64.9062px 7.5px;
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 400 normal 12px / 15px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+    overflow: hidden;
+}/*#A_20*/
+
+#A_20:after {
+    color: rgb(38, 38, 38);
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    column-rule-color: rgb(38, 38, 38);
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 400 normal 12px / 15px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#A_20:after*/
+
+#A_20:before {
+    color: rgb(38, 38, 38);
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    column-rule-color: rgb(38, 38, 38);
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 400 normal 12px / 15px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#A_20:before*/
+
+#DIV_24 {
+    /*bottom: 0px;*/
+    /*box-sizing: border-box;*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
+    /*object-fit: contain;*/
+    /*display: block;*/
+    /*overflow: auto;*/
+    /*display: -webkit-box;*/
+    height: 265.5px;
+    /*left: 0px;*/
+    /*position: relative;*/
+    /*right: 0px;*/
+    /*text-size-adjust: 100%;*/
+    /*top: 0px;*/
+    width: 354px;
+    /*align-items: stretch;*/
+    /*text-align: center;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    /*perspective-origin: 177px 132.75px;*/
+    /*transform-origin: 177px 132.75px;*/
+    /*border: 0px solid rgb(0, 0, 0);*/
+    /*flex: 0 0 auto;*/
+    /*flex-flow: column nowrap;*/
+    /*font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;*/
+    /*overflow: hidden;*/
+    background-image: url("photo.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    /*padding: 0px 0px 265.5px;*/
+}/*#DIV_24*/
+
+#DIV_24:after {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_24:after*/
+
+#DIV_24:before {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_24:before*/
+
+#IMG_25 {
+    position: absolute;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
+    margin: auto;
+    min-height: 265.5px;
+    width: 354px;
+}/*#IMG_25*/
+
+#IMG_25:after {
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#IMG_25:after*/
+
+#IMG_25:before {
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#IMG_25:before*/
+
+#DIV_27 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 97px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 354px;
+    align-items: stretch;
+    perspective-origin: 177px 48.5px;
+    transform-origin: 177px 48.5px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 0px 16px;
+}/*#DIV_27*/
+
+#DIV_27:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_27:after*/
+
+#DIV_27:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_27:before*/
+
+#SECTION_28 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: -webkit-box;
+    flex-direction: row;
+    height: 40px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 322px;
+    align-items: stretch;
+    perspective-origin: 161px 20px;
+    transform-origin: 161px 20px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 4px 0px 0px;
+}/*#SECTION_28*/
+
+#SECTION_28:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SECTION_28:after*/
+
+#SECTION_28:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SECTION_28:before*/
+
+#SPAN_29 {
+    display: block;
+    height: 40px;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    width: 40px;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px -8px;
+}/*#SPAN_29*/
+
+#SPAN_29:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_29:after*/
+
+#SPAN_29:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_29:before*/
+
+#BUTTON_30, #BUTTON_33, #BUTTON_36, #BUTTON_39 {
+    background-position: 0px 0px;
+    cursor: pointer;
+    /*display: flex;*/
+    height: 40px;
+    min-height: 40px;
+    min-width: 40px;
+    text-size-adjust: 100%;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px padding-box border-box;
+    background-size: auto;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 0px;
+}/*#BUTTON_30, #BUTTON_33, #BUTTON_36, #BUTTON_39*/
+
+#BUTTON_30:after, #BUTTON_33:after, #BUTTON_36:after, #BUTTON_39:after {
+    cursor: pointer;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#BUTTON_30:after, #BUTTON_33:after, #BUTTON_36:after, #BUTTON_39:after*/
+
+#BUTTON_30:before, #BUTTON_33:before, #BUTTON_36:before, #BUTTON_39:before {
+    cursor: pointer;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#BUTTON_30:before, #BUTTON_33:before, #BUTTON_36:before, #BUTTON_39:before*/
+
+#SPAN_31_h {
+    margin: auto;
+    background-position: 0px -295px;
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    width: 24px;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    caret-color: rgba(0, 0, 0, 0.847);
+    background: rgba(0, 0, 0, 0) url("instagram_sprites.png") no-repeat scroll -300px -271px padding-box border-box;
+    background-size: 355px 344px;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_31*/
+
+#SPAN_31 {
+    margin: auto;
+    background-position: 0px -295px;
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    width: 24px;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    caret-color: rgba(0, 0, 0, 0.847);
+    background: rgba(0, 0, 0, 0) url("instagram_sprites.png") no-repeat scroll 0px -295px padding-box border-box;
+    background-size: 355px 344px;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_31*/
+
+#SPAN_31:after {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_31:after*/
+
+#SPAN_31:before {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_31:before*/
+
+#SPAN_32, #SPAN_35 {
+    display: block;
+    height: 40px;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    width: 40px;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_32, #SPAN_35*/
+
+#SPAN_32:after, #SPAN_35:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_32:after, #SPAN_35:after*/
+
+#SPAN_32:before, #SPAN_35:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_32:before, #SPAN_35:before*/
+
+#SPAN_34 {
+    margin: auto;
+    background-position: -142px -97px;
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    width: 24px;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    caret-color: rgba(0, 0, 0, 0.847);
+    background: rgba(0, 0, 0, 0) url("instagram_sprites.png") no-repeat scroll -142px -97px padding-box border-box;
+    background-size: 355px 344px;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_34*/
+
+#SPAN_34:after {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_34:after*/
+
+#SPAN_34:before {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_34:before*/
+
+#SPAN_37 {
+    margin: auto;
+    background-position: -225px -320px;
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    width: 24px;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    caret-color: rgba(0, 0, 0, 0.847);
+    background: rgba(0, 0, 0, 0) url("instagram_sprites.png") no-repeat scroll -225px -320px padding-box border-box;
+    background-size: 355px 344px;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_37*/
+
+#SPAN_37:after {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_37:after*/
+
+#SPAN_37:before {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_37:before*/
+
+#SPAN_38 {
+    display: block;
+    height: 40px;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    width: 40px;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px -10px 0px 180px;
+}/*#SPAN_38*/
+
+#SPAN_38:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_38:after*/
+
+#SPAN_38:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SPAN_38:before*/
+
+#SPAN_40 {
+    margin: auto;
+    background-position: -100px -320px;
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    width: 24px;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    caret-color: rgba(0, 0, 0, 0.847);
+    background: rgba(0, 0, 0, 0) url("instagram_sprites.png") no-repeat scroll -100px -320px padding-box border-box;
+    background-size: 355px 344px;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_40*/
+
+#SPAN_40:after {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_40:after*/
+
+#SPAN_40:before {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_40:before*/
+
+#SECTION_41 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 18px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 322px;
+    align-items: stretch;
+    justify-content: flex-end;
+    perspective-origin: 161px 9px;
+    transform-origin: 161px 9px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 8px;
+}/*#SECTION_41*/
+
+#SECTION_41:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SECTION_41:after*/
+
+#SECTION_41:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#SECTION_41:before*/
+
+#DIV_42 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 18px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 322px;
+    align-content: stretch;
+    align-items: stretch;
+    justify-content: flex-start;
+    perspective-origin: 161px 9px;
+    transform-origin: 161px 9px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 1 1 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_42*/
+
+#DIV_42:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_42:after*/
+
+#DIV_42:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_42:before*/
+
+#DIV_43 {
+    bottom: 0px;
+    box-sizing: border-box;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    top: 0px;
+    width: 322px;
+    align-items: center;
+    justify-content: start;
+    flex: 1 1 auto;
+    flex-flow: row wrap;
+    background-position: 0px 0px;
+    color: rgb(38, 38, 38);
+    cursor: pointer;
+    display: block;
+    height: 18px;
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    text-overflow: ellipsis;
+    white-space: pre;
+    column-rule-color: rgb(38, 38, 38);
+    perspective-origin: 45.3438px 9px;
+    transform-origin: 45.3438px 9px;
+    user-select: none;
+    caret-color: rgb(38, 38, 38);
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px padding-box border-box;
+    background-size: auto;
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 600 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(38, 38, 38) none 0px;
+    padding: 0px;
+}/*#DIV_43*/
+
+#DIV_43:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    white-space: pre;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_43:after*/
+
+#DIV_43:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    white-space: pre;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_43:before*/
+
+#DIV_46 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 0px;
+    left: 0px;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 322px;
+    align-items: stretch;
+    perspective-origin: 161px 0px;
+    transform-origin: 161px 0px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 1 1 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 4px;
+    overflow: auto;
+}/*#DIV_46*/
+
+#DIV_46:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_46:after*/
+
+#DIV_46:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_46:before*/
+
+#UL_47 {
+    bottom: -32px;
+    height: 0px;
+    left: 0px;
+    position: absolute;
+    right: -16px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 314px;
+    perspective-origin: 169px 16px;
+    transform-origin: 169px 16px;
+    flex: 1 1 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    overflow: auto scroll;
+    padding: 16px 12px;
+}/*#UL_47*/
+
+#UL_47:after {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#UL_47:after*/
+
+#UL_47:before {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#UL_47:before*/
+
+#DIV_48 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 273px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    touch-action: manipulation;
+    width: 314px;
+    align-items: stretch;
+    perspective-origin: 157px 136.5px;
+    transform-origin: 157px 136.5px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_48*/
+
+#DIV_48:after {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_48:after*/
+
+#DIV_48:before {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_48:before*/
+
+#LI_49 {
+    bottom: 0px;
+    height: 266px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 282px;
+    perspective-origin: 163px 139px;
+    transform-origin: 163px 139px;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: -5px 0px 0px -12px;
+    overflow: hidden;
+    padding: 12px 28px 0px 16px;
+}/*#LI_49*/
+
+#LI_49:after {
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#LI_49:after*/
+
+#LI_49:before {
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#LI_49:before*/
+
+#DIV_50 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 266px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 282px;
+    align-items: flex-start;
+    justify-content: space-between;
+    perspective-origin: 141px 133px;
+    transform-origin: 141px 133px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_50*/
+
+#DIV_50:after {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_50:after*/
+
+#DIV_50:before {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_50:before*/
+
+#DIV_51 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 266px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 282px;
+    align-items: stretch;
+    perspective-origin: 141px 133px;
+    transform-origin: 141px 133px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_51*/
+
+#DIV_51:after {
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_51:after*/
+
+#DIV_51:before {
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_51:before*/
+
+#DIV_52 {
+    bottom: 0px;
+    box-sizing: border-box;
+    cursor: pointer;
+    height: 32px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 32px;
+    align-items: stretch;
+    align-self: flex-start;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 18px 0px 0px;
+}/*#DIV_52*/
+
+#DIV_52:after {
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_52:after*/
+
+#DIV_52:before {
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_52:before*/
+
+#CANVAS_53 {
+    bottom: -5px;
+    cursor: pointer;
+    display: block;
+    height: 42px;
+    left: -5px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: -5px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: -5px;
+    width: 42px;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#CANVAS_53*/
+
+#CANVAS_53:after {
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#CANVAS_53:after*/
+
+#CANVAS_53:before {
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#CANVAS_53:before*/
+
+#SPAN_54 {
+    bottom: 0px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: 32px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 32px;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    background: rgb(250, 250, 250) none repeat scroll 0% 0% padding-box border-box;
+    background-size: auto;
+    border-radius: 50% 50% 50% 50%;
+    flex: 0 0 auto;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    overflow: hidden;
+}/*#SPAN_54*/
+
+#SPAN_54:after {
+    bottom: 0px;
+    content: '""';
+    cursor: pointer;
+    display: block;
+    height: 30px;
+    left: 0px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 30px;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    border: 1px solid rgba(0, 0, 0, 0.098);
+    border-radius: 50% 50% 50% 50%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#SPAN_54:after*/
+
+#SPAN_54:before {
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#SPAN_54:before*/
+
+#IMG_55 {
+    cursor: pointer;
+    height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    width: 32px;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#IMG_55*/
+
+#IMG_55:after {
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#IMG_55:after*/
+
+#IMG_55:before {
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#IMG_55:before*/
+
+#DIV_56 {
+    bottom: 0px;
+    box-sizing: border-box;
+    height: 266px;
+    left: 0px;
+    min-height: auto;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 232px;
+    align-items: stretch;
+    perspective-origin: 116px 133px;
+    transform-origin: 116px 133px;
+    user-select: none;
+    border: 0px solid rgb(0, 0, 0);
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_56*/
+
+#DIV_56:after {
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_56:after*/
+
+#DIV_56:before {
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_56:before*/
+
+#H2_57 {
+    display: inline-flex;
+    height: 18px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    width: 47.8594px;
+    align-items: center;
+    perspective-origin: 23.9219px 9px;
+    transform-origin: 23.9297px 9px;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+}/*#H2_57*/
+
+#H2_57:after {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#H2_57:after*/
+
+#H2_57:before {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#H2_57:before*/
+
+#A_58 {
+    color: rgb(38, 38, 38);
+    display: block;
+    height: 18px;
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 43.8594px;
+    column-rule-color: rgb(38, 38, 38);
+    perspective-origin: 24.4219px 9px;
+    transform-origin: 24.4297px 9px;
+    user-select: none;
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 600 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 4px 0px -5px;
+    outline: rgb(38, 38, 38) none 0px;
+    overflow: hidden;
+    padding: 0px 0px 0px 5px;
+}/*#A_58*/
+
+#A_58:after {
+    color: rgb(38, 38, 38);
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    column-rule-color: rgb(38, 38, 38);
+    user-select: none;
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 600 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#A_58:after*/
+
+#A_58:before {
+    color: rgb(38, 38, 38);
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(38, 38, 38);
+    text-size-adjust: 100%;
+    white-space: nowrap;
+    column-rule-color: rgb(38, 38, 38);
+    user-select: none;
+    caret-color: rgb(38, 38, 38);
+    border: 0px none rgb(38, 38, 38);
+    font: normal normal 600 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(38, 38, 38) none 0px;
+}/*#A_58:before*/
+
+#SPAN_59 {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#SPAN_59*/
+
+#SPAN_59:after {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#SPAN_59:after*/
+
+#SPAN_59:before {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#SPAN_59:before*/
+
+#A_60, #A_61, #A_63, #A_65, #A_67, #A_69, #A_71, #A_73 {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_60, #A_61, #A_63, #A_65, #A_67, #A_69, #A_71, #A_73*/
+
+#A_60:after, #A_61:after, #A_63:after, #A_65:after, #A_67:after, #A_69:after, #A_71:after, #A_73:after {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_60:after, #A_61:after, #A_63:after, #A_65:after, #A_67:after, #A_69:after, #A_71:after, #A_73:after*/
+
+#A_60:before, #A_61:before, #A_63:before, #A_65:before, #A_67:before, #A_69:before, #A_71:before, #A_73:before {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_60:before, #A_61:before, #A_63:before, #A_65:before, #A_67:before, #A_69:before, #A_71:before, #A_73:before*/
+
+#A_62, #A_64, #A_68, #A_72 {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_62, #A_64, #A_68, #A_72*/
+
+#A_62:after, #A_64:after, #A_68:after, #A_72:after {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_62:after, #A_64:after, #A_68:after, #A_72:after*/
+
+#A_62:before, #A_64:before, #A_68:before, #A_72:before {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_62:before, #A_64:before, #A_68:before, #A_72:before*/
+
+#A_66, #A_70 {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_66, #A_70*/
+
+#A_66:after, #A_70:after {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_66:after, #A_70:after*/
+
+#A_66:before, #A_70:before {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_66:before, #A_70:before*/
+
+#A_74 {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_74*/
+
+#A_74:after {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_74:after*/
+
+#A_74:before {
+    color: rgb(0, 53, 105);
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(0, 53, 105);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(0, 53, 105);
+    user-select: none;
+    caret-color: rgb(0, 53, 105);
+    border: 0px none rgb(0, 53, 105);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 53, 105) none 0px;
+}/*#A_74:before*/
+
+#DIV_75 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    height: 12px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 232px;
+    align-content: stretch;
+    align-items: stretch;
+    justify-content: flex-start;
+    perspective-origin: 116px 6px;
+    transform-origin: 116px 6px;
+    user-select: none;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 16px 0px 4px;
+}/*#DIV_75*/
+
+#DIV_75:after {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_75:after*/
+
+#DIV_75:before {
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    user-select: none;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+}/*#DIV_75:before*/
+
+#DIV_76 {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: rgb(153, 153, 153);
+    height: 17px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 232px;
+    column-rule-color: rgb(153, 153, 153);
+    align-items: stretch;
+    perspective-origin: 116px 8.5px;
+    transform-origin: 116px 8.5px;
+    user-select: none;
+    caret-color: rgb(153, 153, 153);
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 12px / 14px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: -2px 0px -3px;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#DIV_76*/
+
+#DIV_76:after {
+    color: rgb(153, 153, 153);
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(153, 153, 153);
+    user-select: none;
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 12px / 14px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#DIV_76:after*/
+
+#DIV_76:before {
+    color: rgb(153, 153, 153);
+    min-height: auto;
+    min-width: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(153, 153, 153);
+    user-select: none;
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 12px / 14px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#DIV_76:before*/
+
+#TIME_77 {
+    background-position: 0px 0px;
+    color: rgb(153, 153, 153);
+    cursor: default;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(153, 153, 153);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    user-select: none;
+    caret-color: rgb(153, 153, 153);
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px padding-box border-box;
+    background-size: auto;
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 14px / 17px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 16px 0px 0px;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#TIME_77*/
+
+#TIME_77:after {
+    color: rgb(153, 153, 153);
+    cursor: default;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(153, 153, 153);
+    user-select: none;
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 14px / 17px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#TIME_77:after*/
+
+#TIME_77:before {
+    color: rgb(153, 153, 153);
+    cursor: default;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    column-rule-color: rgb(153, 153, 153);
+    user-select: none;
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 14px / 17px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#TIME_77:before*/
+
+#DIV_78 {
+    bottom: 0px;
+    box-sizing: border-box;
+    height: 19px;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 322px;
+    align-items: stretch;
+    perspective-origin: 161px 9.5px;
+    transform-origin: 161px 9.5px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 4px;
+}/*#DIV_78*/
+
+#DIV_78:after {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_78:after*/
+
+#DIV_78:before {
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_78:before*/
+
+#A_79 {
+    color: rgb(153, 153, 153);
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    column-rule-color: rgb(153, 153, 153);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 5px;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#A_79*/
+
+#A_79:after {
+    color: rgb(153, 153, 153);
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    column-rule-color: rgb(153, 153, 153);
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#A_79:after*/
+
+#A_79:before {
+    color: rgb(153, 153, 153);
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    column-rule-color: rgb(153, 153, 153);
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#A_79:before*/
+
+#TIME_80 {
+    color: rgb(153, 153, 153);
+    cursor: pointer;
+    letter-spacing: 0.2px;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    column-rule-color: rgb(153, 153, 153);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 10px / 17px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#TIME_80*/
+
+#TIME_80:after {
+    color: rgb(153, 153, 153);
+    cursor: pointer;
+    letter-spacing: 0.2px;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    column-rule-color: rgb(153, 153, 153);
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 10px / 17px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#TIME_80:after*/
+
+#TIME_80:before {
+    color: rgb(153, 153, 153);
+    cursor: pointer;
+    letter-spacing: 0.2px;
+    text-decoration: none solid rgb(153, 153, 153);
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    column-rule-color: rgb(153, 153, 153);
+    caret-color: rgb(153, 153, 153);
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal 400 normal 10px / 17px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#TIME_80:before*/
+
+#DIV_81 {
+    bottom: 362.5px;
+    box-sizing: border-box;
+    display: flex;
+    height: 60px;
+    left: 310px;
+    position: absolute;
+    right: 4px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 40px;
+    align-items: stretch;
+    justify-content: center;
+    perspective-origin: 20px 30px;
+    transform-origin: 20px 30px;
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_81*/
+
+#DIV_81:after {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_81:after*/
+
+#DIV_81:before {
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#DIV_81:before*/
+
+#BUTTON_82 {
+    margin-top: 10px;
+    background-position: 0px 0px;
+    cursor: pointer;
+    /*display: -webkit-box;*/
+    display: flex;
+    height: 40px;
+    min-height: 40px;
+    min-width: 40px;
+    text-size-adjust: 100%;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px padding-box border-box;
+    background-size: auto;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 0px;
+}/*#BUTTON_82*/
+
+#BUTTON_82:after {
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#BUTTON_82:after*/
+
+#BUTTON_82:before {
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-size-adjust: 100%;
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}/*#BUTTON_82:before*/
+
+#SPAN_83 {
+    margin: auto;
+    background-position: -331px -125px;
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    display: block;
+    height: 24px;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    width: 24px;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    caret-color: rgba(0, 0, 0, 0.847);
+    background: rgba(0, 0, 0, 0) url("instagram_sprites.png") no-repeat scroll -331px -125px padding-box border-box;
+    background-size: 355px 344px;
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_83*/
+
+#SPAN_83:after {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_83:after*/
+
+#SPAN_83:before {
+    color: rgba(0, 0, 0, 0.847);
+    cursor: pointer;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.847);
+    text-size-adjust: 100%;
+    column-rule-color: rgba(0, 0, 0, 0.847);
+    caret-color: rgba(0, 0, 0, 0.847);
+    border: 0px none rgba(0, 0, 0, 0.847);
+    font: normal normal 400 normal 14px / 18px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.847) none 0px;
+}/*#SPAN_83:before*/
+
+#DIV_82 {
+    bottom: 0px;
+    box-sizing: border-box;
+    display: flex;
+    left: 0px;
+    min-height: auto;
+    min-width: auto;
+    position: relative;
+    right: 0px;
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 354px;
+    align-items: stretch;
+    perspective-origin: 177px 48.5px;
+    transform-origin: 177px 48.5px;
+    background: rgb(250, 250, 250);
+    color: rgb(153, 153, 153);
+    border: 0px solid rgb(0, 0, 0);
+    flex: 0 0 auto;
+    flex-flow: column nowrap;
+    font: normal normal 400 normal 5px / 10px -apple-system, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 2px 16px;
+}/*#DIV_27*/
